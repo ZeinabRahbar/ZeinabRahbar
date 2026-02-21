@@ -1,13 +1,32 @@
-### Hi there 👋  
+### Hi there 😃👋
 
+I’m **Zeinab Rahbar** — a researcher and developer passionate about **multimodal learning, latent graph learning, and Graph Neural Networks (GNNs)**.  
 
-I’m **Zeinab Rahbar** — a researcher and developer passionate about **ETL systems, LLMs, and multimodal Graph Neural Networks (GNNs)**.  
+💼 **What I Work On**  
+- Researching **multimodal learning** and **latent graph learning** for complex data integration.  
+- Applying **multimodal GNNs** to **VQA (Visual Question Answering)** and other cross-modal tasks.  
+- Working on **LLM-powered systems** with **automation workflows** using **Dify** and **n8n** for content generation.  
+- Exploring **Geometric Deep Learning** to model complex relationships across data modalities.  
 
-- 🔭 I’m currently working on **ETL pipelines, LLM-related projects, and multimodal GNN research**.  
-- 🌱 I’m diving deeper into **Geometric Deep Learning** and exploring new ways to integrate heterogeneous data.  
-- 👯 I’m open to **collaborations in GDL research** and innovative projects.  
-- 💬 Ask me about **ETL systems, LLMs, or Graph Neural Networks**.  
-- 📫 Reach me on **Telegram**: [@Zeinabrahbar2000](https://t.me/Zeinabrahbar2000) or **LinkedIn**: [Zeinab Rahbar](https://www.linkedin.com/in/zeinab-rahbar-181703220/?skipRedirect=true)  
-- ⚡ Fun fact: I’m **proud to rise after every challenge** — resilience is my superpower!  
+🧠 **Projects**  
+🔹 **Multimodal GNN Research** — Integrating text, image, and graph data for **VQA** and predictive modeling.  
+🔹 **LLM Automation Workflows** — Orchestrating content generation pipelines using **Dify** and **n8n**.  
+🔹 **Latent Graph Learning Projects** — Learning hidden structures and relationships in multimodal data.  
+
+🧰 **Tech Stack**  
+- **Languages:** Python, SQL, LaTeX  
+- **Databases:** PostgreSQL, MongoDB, Neo4j  
+- **Machine Learning:** PyTorch, TensorFlow, **PyTorch Geometric**, **DGL**, Graph Neural Networks  
+- **Workflow Automation:** Dify, n8n  
+- **Tools & Frameworks:** Docker, LangChain, llama-index  
+
+🙌 **Open to Collaborate**  
+I’m open to collaborations in **multimodal learning, latent graph learning, and LLM research**.  
+
+📫 **Get in Touch**  
+- **Telegram:** [@Zeinabrahbar2000](https://t.me/Zeinabrahbar2000)  
+- **LinkedIn:** [Zeinab Rahbar](https://www.linkedin.com/in/zeinab-rahbar-181703220/?skipRedirect=true)  
+
+⚡ **Fun Fact / Motto:** I’m **proud to rise after every challenge** — resilience is my superpower!  
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ZeinabRahbar)](https://github.com/LordDashMe/github-contribution-stats/)
