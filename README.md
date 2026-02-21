@@ -14,14 +14,14 @@ I’m **Zeinab Rahbar** — a researcher and developer passionate about **multim
 🔹 **Latent Graph Learning Projects** — Learning hidden structures and relationships in multimodal data.  
 
 🧰 **Tech Stack**  
-- **Languages:** Python, SQL, LaTeX  
-- **Databases:** PostgreSQL, MongoDB, Neo4j  
+- **Languages:** Python, LaTeX  
+- **Databases:** PostgreSQL 
 - **Machine Learning:** PyTorch, TensorFlow, **PyTorch Geometric**, **DGL**, Graph Neural Networks  
 - **Workflow Automation:** Dify, n8n  
 - **Tools & Frameworks:** Docker, LangChain, llama-index  
 
 🙌 **Open to Collaborate**  
-I’m open to collaborations in **multimodal learning, latent graph learning, and LLM research**.  
+I’m open to collaborations in **multimodal learning, geometric deep learning, latent graph learning, and LLM research**.  
 
 📫 **Get in Touch**  
 - **Telegram:** [@Zeinabrahbar2000](https://t.me/Zeinabrahbar2000)  
