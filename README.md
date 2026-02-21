@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 
-###I’m **Zeinab Rahbar** — a researcher and developer passionate about **ETL systems, LLMs, and multimodal Graph Neural Networks (GNNs)**.  
+I’m **Zeinab Rahbar** — a researcher and developer passionate about **ETL systems, LLMs, and multimodal Graph Neural Networks (GNNs)**.  
 
 - 🔭 I’m currently working on **ETL pipelines, LLM-related projects, and multimodal GNN research**.  
 - 🌱 I’m diving deeper into **Geometric Deep Learning** and exploring new ways to integrate heterogeneous data.  
