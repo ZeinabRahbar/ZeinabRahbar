@@ -12,7 +12,7 @@ I am an Artificial Intelligence researcher specializing in **Graph Neural Networ
 *   **M.Sc. in Computer Engineering — Artificial Intelligence** | University of Isfahan (2022–2025)
     *   **Grade:** 18.60 / 20
     *   **Thesis:** *Developing Graph Neural Networks for Multimodal Non-Graph Textual and Visual Data*
-    *   **Supervisors:** Dr. Peyman Adibi (Univ. of Isfahan / Grenoble INP connection), Dr. Alireza Darvishy (ZHAW, Switzerland)
+    *   **Supervisors:** Dr. Peyman Adibi (Univ. of Isfahan), Dr. Alireza Darvishy (ZHAW, Switzerland)
 *   **B.Sc. in Computer Engineering** | Arak University (2018–2022)
 
 ---
