@@ -1,38 +1,33 @@
 # Zeinab Rahbar
-**Machine Learning Researcher | Geometric Deep Learning & Medical AI**
+**AI Researcher | Graph Learning & Geometric Deep Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/zeinab-rahbar-181703220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/zeinab-rahbar-181703220/) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ZeinabRahbar2022@gmail.com) [![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-lightgrey?logo=google-scholar)](https://scholar.google.com/)
 
-I am a Machine Learning Researcher (M.Sc. in Artificial Intelligence) specializing in **Graph Neural Networks (GNNs)**, **Geometric Deep Learning**, and **Multimodal Representation Learning**. My work bridges theoretical graph structure learning with production-grade data orchestration, focusing heavily on non-Euclidean data structures applied to complex medical imaging and vision tasks.
-
----
-
-### 🔬 Academic Research & Medical AI
-
-* **GeoSuperRes:** Developing geometry-aware multimodal super-resolution models for imaging microscopic cellular porosity in bones and teeth. Focus on graph pruning strategies and superpixel generation for high-fidelity biological structure reconstruction.
-* **Multimodal Graph Structure Learning (M.Sc. Thesis):** Architected GNN pipelines capable of learning latent topologies over non-graph visual and textual entities. Designed message-passing mechanisms for cross-modal reasoning and Visual Question Answering.
-* **Latent Graph Inference for Disease Prediction:** Constructed heterogeneous graphs from TADPOLE and ABIDE datasets (MRI, fMRI, clinical markers) to model latent patient-to-patient and modality-to-modality topologies.
-
-### 📐 Core Mathematical Implementations
-
-* **[GCN-From-Scratch](link-to-repo):** Pure implementation of a Graph Convolutional Network with random weights. Built entirely without high-level graph frameworks (e.g., PyG) to explicitly demonstrate the underlying linear algebra of spectral graph convolutions and local neighborhood message passing.
-
-### ⚙️ Production Engineering & MLOps
-
-* **Enterprise Data Infrastructure (Makan System Scientist Company / شرکت ماکان سیستم دانشمند):** Engineered large-scale ETL workflows, metadata governance, and full-stack observability pipelines.
-    * **Architecture:** Apache Beam, Apache Atlas, lakeFS, MinIO, Apache NiFi.
-    * **Observability:** Built authenticated logging systems and certificate management workflows using the ELK Stack (Elasticsearch, Logstash, Kibana).
-
-### 👁️ Applied Computer Vision
-
-* **Real-Time Inference Systems (HoopadVision):** Engineered deployment-oriented computer vision pipelines for industrial environments.
-    * Developed a human action recognition pipeline from scratch.
-    * Optimized multi-camera real-time inference and enhanced fire detection systems for edge constraints.
+I am an AI researcher focusing on the theoretical and efficient processing of graph-structured data. My work centers on **Graph Neural Networks (GNNs)**, latent graph learning, and multimodal representation learning. I am particularly interested in analyzing information propagation, generalization behavior in graph models, and theory-driven geometric deep learning for biomedical imaging and graph signal processing.
 
 ---
 
-### 🛠️ Technical Stack
+### 🔬 Academic Research & Core Implementations
 
-* **Research & Modeling:** PyTorch, PyTorch Geometric (PyG), DGL, TensorFlow
-* **Languages:** Python, C++
-* **Deployment & Ops:** Docker, FastAPI, Linux, ELK Stack
+* **Latent Graph Learning for Multimodal Disease Prediction:** Architected models to infer latent graph topologies from heterogeneous biomedical data (MRI, fMRI, clinical tests). Evaluated generalization on the TADPOLE and ABIDE datasets.
+* **GNN-based Visual Question Answering (VQA):** Modeled visual and textual entities as graph structures, utilizing GNNs for cross-modal message propagation. Conducted experiments on the VQA v2 dataset (M.Sc. Thesis, Scored 18.60/20).
+* **[GCN with Random Weights](link-to-repo):** Implemented a purely mathematical approach from literature from scratch (no public code available) to analyze the underlying mechanics of spectral convolutions.
+
+### ⚙️ Applied Engineering & Compute Optimization
+
+* **Machine Vision Engineer (HoopadVision):** Engineered and deployed real-time computer vision pipelines for industrial environments.
+    * Built a human action recognition system (running, falling) capable of processing **4 parallel camera streams at 15 FPS on a single GPU**.
+    * Enhanced real-time fire detection accuracy through time-series analysis.
+
+### 📚 Academic Mentorship
+
+* **Teaching Assistant:** Machine Learning, Discrete Mathematics, Human-Computer Interaction (HCI), and Computer Basics (University of Isfahan & Arak University).
+
+---
+
+### 🛠️ Technical Stack & Profile
+
+* **Research Focus:** Geometric Deep Learning, Graph Signal Processing, Graph Compression, Medical Image Processing.
+* **Frameworks:** PyTorch, PyTorch Geometric (PyG), DGL, TensorFlow, Ultralytics.
+* **Deployment & Tooling:** FastAPI, Docker, Linux, Git.
+* **Languages:** Python, C++.
