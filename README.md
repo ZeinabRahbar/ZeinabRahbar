@@ -2,6 +2,7 @@
 **AI Researcher | Graph Learning & Geometric Deep Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/zeinab-rahbar-181703220/) 
+
 I am an AI researcher focusing on the theoretical and efficient processing of graph-structured data. My work centers on **Graph Neural Networks (GNNs)**, latent graph learning, and multimodal representation learning. I am particularly interested in analyzing information propagation, generalization behavior in graph models, and theory-driven geometric deep learning for biomedical imaging and graph signal processing.
 
 ---
