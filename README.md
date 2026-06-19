@@ -9,7 +9,6 @@ I am a Machine Learning Researcher (M.Sc. in Artificial Intelligence) specializi
 
 ### 🔬 Academic Research & Medical AI
 
-*   **GeoSuperRes (Université Grenoble Alpes):** Developing geometry-aware multimodal super-resolution models for imaging microscopic cellular porosity in bones and teeth. Focus on graph pruning strategies and superpixel generation for high-fidelity biological structure reconstruction.
 *   **Multimodal Graph Structure Learning (M.Sc. Thesis):** Architected GNN pipelines capable of learning latent topologies over non-graph visual and textual entities. Designed message-passing mechanisms for cross-modal reasoning and Visual Question Answering.
 *   **Latent Graph Inference for Disease Prediction:** Constructed heterogeneous graphs from TADPOLE and ABIDE datasets (MRI, fMRI, clinical markers) to model latent patient-to-patient and modality-to-modality topologies.
 
