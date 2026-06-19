@@ -1,7 +1,7 @@
 # Zeinab Rahbar
 **Machine Learning Researcher | Geometric Deep Learning & Medical AI**
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/zeinab-rahbar-181703220/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/zeinab-rahbar-181703220/)
 
 I am a Machine Learning Researcher (M.Sc. in Artificial Intelligence) specializing in **Graph Neural Networks (GNNs)**, **Geometric Deep Learning**, and **Multimodal Representation Learning**. My work bridges theoretical graph structure learning with production-grade data orchestration, focusing heavily on non-Euclidean data structures applied to complex medical imaging and vision tasks.
 
