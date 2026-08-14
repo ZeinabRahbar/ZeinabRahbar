@@ -5,7 +5,7 @@
 
 I am an AI researcher with a strong background in **graph neural networks**, **latent graph structure learning**, and **multimodal representation learning**. My work focuses on learning graph topologies from non-graph data and understanding how information propagates through learned structures—with applications in healthcare and biomedical AI.
 
-🔬 I am actively seeking **PhD positions** in Graph Machine Learning, Geometric Deep Learning, and Multimodal AI for Healthcare. If your lab works on:
+🔬 I am actively seeking **Research positions** in Graph Machine Learning, Geometric Deep Learning, and Multimodal AI for Healthcare. If your lab works on:
 - Graph Neural Networks & Geometric Deep Learning
 - Graph representation learning / Latent graph structure learning
 - Multimodal learning for biomedical applications
